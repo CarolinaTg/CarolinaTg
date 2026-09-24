@@ -19,8 +19,7 @@
 
 ## Now
 🕮 Learning: GSAP, Three.js, and web design    
-⚙︎  Building: Minimalist portfolio                   
-⚲   Based: Costa Rica                   
+⚙︎  Building: Minimalist portfolio                                    
 ಄  Focus: Fashion and art digital experiences
 
 
