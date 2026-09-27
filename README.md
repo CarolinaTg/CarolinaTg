@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <a href="https://instagram.com/tuuser">
+  <a href="https://instagram.com">
     <img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white&labelColor=000000" alt="Instagram">
   </a>
   <a href="https://dribbble.com/tuuser">
