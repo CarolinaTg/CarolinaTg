@@ -46,7 +46,7 @@
 </p>
 
 
-## Featured Work
+## Selected Work
 
 | Project | Description | Tech | Live |
 |---------|-------------|------|------|
@@ -54,17 +54,6 @@
 | **Fashion Landing** | Editorial landing page for a brand | HTML/CSS/Figma | [View](https://carolinatg.github.io/fashion-landing) |
 | **Minimal Loader** | CSS-only elegant loading animation | CSS3 | [View](https://carolinatg.github.io/minimal-loader) |
 | **Custom Cursor** | Magnetic cursor with hover effects | JS/CSS | [View](https://carolinatg.github.io/custom-cursor) |
-
-
-## Currently
-
-Creating digital experiences through code and design.
-
-Exploring:
-- Creative development
-- Interactive web experiences
-- UI/UX
-- Motion and animation
 
 
 ---
